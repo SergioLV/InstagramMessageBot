@@ -98,4 +98,3 @@ class IgBot():
 
 
 bot = IgBot()
-bot.start("", "", "", "test", 2)
