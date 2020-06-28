@@ -15,7 +15,7 @@ Download it from [here](https://chromedriver.chromium.org/), then unzip the arch
 pip3 install pipenv --upgrade
 ```
 
-## Selenium (pip3 required)
+## Selenium
 ```
 pip3 install selenium
 ```
