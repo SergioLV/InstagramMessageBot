@@ -4,9 +4,7 @@ Send a ton of messages to your friends without even get tired.
 
 # Install
 
-I really don't know how to install it remotely. I hope you will. 
-
-With love.
+Run the code on a virtual enviroment and enjoy!.
 
 - Sergio Lagos Vergara.
 
