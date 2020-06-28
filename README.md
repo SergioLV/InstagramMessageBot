@@ -28,5 +28,9 @@ With love.
 
 - Sergio Lagos Vergara.
 
+# Usage
+```
+Run bot.py and type bot.start('YOUR_IG_NAME','YOUR_IG_PASSWORD','MESSAGE_TO_SEND',QUANTITY).
+```
 
 
