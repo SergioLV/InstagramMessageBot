@@ -14,8 +14,9 @@ pip3 install pipenv --upgrade
 ```
 
 ## Selenium (pip3 required):
-
+```
 pip3 install selenium
+```
 
 
 
