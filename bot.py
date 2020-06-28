@@ -97,4 +97,11 @@ class IgBot():
             sendBtn.click()
 
 
+user = input("Username: ")
+password = input("Password: ")
+friend = input("FriendAccount: ")
+message = input("Write the message: ")
+quantity = input("Quantity of repetitions: ")
+
 bot = IgBot()
+bot.start(user, password, friend, message, quantity)
